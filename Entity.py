@@ -1,7 +1,7 @@
 '''
 Created on 31.03.2012
 
-@author: Lisa und Jan
+@author: Jan S.
 '''
 import pygame
 pygame.init()
